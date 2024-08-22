@@ -23,7 +23,7 @@ const Photo = () => {
         
       mix-blend-difference absolute ">
             <Image 
-            src="/assets/assets/Baseba1l.png"
+            src="/assets/Baseba1l.png"
             priority 
             quality={100}
             fill
