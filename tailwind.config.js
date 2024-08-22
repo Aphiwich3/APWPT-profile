@@ -23,15 +23,17 @@ module.exports = {
     fontFamily:{
       primary: "var(--font-jetbrainsMono)",
     },
+  
     extend: {
-      coloes:{
-        primary: "lc1c22",
+      colors: {
+        primary: '#1c1c22',
         accent: {
-          DEFFAULT: "#dbaa60",
-          hover: "#dbaa60",
-        },
+          DEFFAULT: '#dbaa60',
+          hover: '#d99c41',
+        }
           
       },
+      
 
       keyframes: {
         "accordion-down": {
