@@ -48,7 +48,7 @@ const Contact = () => {
         <div className="flex flex-col xl:flex-row gap-[30px]">
             <div className="xl:w-[54%] order-2 xl:order-none">
             <from className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl ">
-                <h3 className="text-4xl text-accent-hover">Aphiwich Prngtho</h3>
+                <h3 className="text-4xl text-accent-hover">Aphiwich Prangtho</h3>
                 
                 <p className="text-white/60 " >I am learning web development and am seeking an internship as a Front-end software developer. :D 
                 </p>
