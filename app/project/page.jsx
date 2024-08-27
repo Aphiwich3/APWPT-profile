@@ -17,7 +17,7 @@ const projects = [
         num:"01",
         category:"Project Game",
         title: "Game",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nobis possimus debitis eos illo repellendus exercitationem rerum?",
+        description: "Adventure about cyber security for learn",
         stack: [{name:"Unity,"},{ name:"C#," },{ name:"Visual Scripting" }],
         image: "/assets/work/project3.png",
         live:"",
@@ -28,7 +28,7 @@ const projects = [
         num:"01",
         category:"Project Game",
         title: "Game",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nobis possimus debitis eos illo repellendus exercitationem rerum?",
+        description: "Adventure about cyber security for learn",
         stack: [{name:"Unity,"},{ name:"C#," },{ name:"Visual Scripting" }],
         image: "/assets/work/project2.png",
         live:"",
@@ -39,13 +39,59 @@ const projects = [
         num:"01",
         category:"Project Game",
         title: "Game",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nobis possimus debitis eos illo repellendus exercitationem rerum?",
+        description: "Adventure about cyber security for learn",
         stack: [{name:"Unity,"},{ name:"C#," },{ name:"Visual Scripting" }],
         image: "/assets/work/project1.png",
         live:"",
         github:"",
 
     },
+    {
+        num:"01",
+        category:"Project Game",
+        title: "Game",
+        description: "Adventure about cyber security for learn",
+        stack: [{name:"Unity,"},{ name:"C#," },{ name:"Visual Scripting" }],
+        image: "/assets/work/character1.png",
+        live:"",
+        github:"",
+
+    },
+    {
+        num:"01",
+        category:"Project Game",
+        title: "Game",
+        description: "Adventure about cyber security for learn",
+        stack: [{name:"Unity,"},{ name:"C#," },{ name:"Visual Scripting" }],
+        image: "/assets/work/character2.png",
+        live:"",
+        github:"",
+
+    },
+    {
+        num:"01",
+        category:"Project Game",
+        title: "Game",
+        description: "Adventure about cyber security for learn",
+        stack: [{name:"Unity,"},{ name:"C#," },{ name:"Visual Scripting" }],
+        image: "/assets/work/character3.png",
+        live:"",
+        github:"",
+
+    },
+    {
+        num:"01",
+        category:"Project Game",
+        title: "Game",
+        description: "Adventure about cyber security for learn",
+        stack: [{name:"Unity,"},{ name:"C#," },{ name:"Visual Scripting" }],
+        image: "/assets/work/character4.png",
+        live:"",
+        github:"",
+
+    },
+    
+    
 ]
 
 

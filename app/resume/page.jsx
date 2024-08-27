@@ -137,6 +137,10 @@ const certificates ={
     name: "NCS PSRU Cyber Hackatho",
   },
   {
+    image: "/assets/work/Basic Cybersecurity.jpg",
+    name: "outstanding academic performance",
+  },
+  {
     image: "/assets/work/056 APHIWICH  PRANGTHO.jpg",
     name: "How to become a penetration tester?",
   },
@@ -152,6 +156,7 @@ const certificates ={
     image: "/assets/work/เรียนดี65.jpg",
     name: "outstanding academic performance",
   },
+  
   
 ]
 }

@@ -27,8 +27,8 @@ const Home = () => {
             size="lg"
             className="uppercase flex items-center gap-2">
               <a 
-            href="/RESUME APHIWICH.pdf" 
-            download="RESUME APHIWICH.pdf">
+            href="/RESUME APHIWICH (1).pdf" 
+            download="RESUME APHIWICH (1).pdf">
               <span >Download CV</span>
               </a>
               <FiDownload className="text-xl" />
