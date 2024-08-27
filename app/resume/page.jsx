@@ -7,8 +7,13 @@ import {
    FaJs,
    FaReact,
    FaFigma,
-   FaNodeJs, 
-  } from "react-icons/fa";
+   FaNodeJs,
+   FaGithub,
+  
+   
+   } from "react-icons/fa";
+   import { SiPostgresql, SiPostman } from "react-icons/si";
+
   import { SiTailwindcss, SiNextdotjs} from "react-icons/si";
 //about data
 const about = {
@@ -125,6 +130,19 @@ const skills ={
     icon:<FaNodeJs />,
     name: "node.js",
   },
+  {
+    icon:<SiPostgresql />,
+    name: "Postgresql",
+  },
+  {
+    icon:<FaGithub />,
+    name: "Git",
+  },
+  {
+    icon:<SiPostman />,
+    name: "postman",
+  },
+  
 ]
 }
 const certificates ={
@@ -296,6 +314,7 @@ const Resume = () => {
                   </div>
               
             </TabsContent>
+            
             <TabsContent value="skills" className="w-full">
               <div className="flex flex-col gap-[30px]">
                 <div className=" flex flex-col gap-[30px] text-center xl:text-left">
