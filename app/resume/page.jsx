@@ -26,7 +26,7 @@ import {
 const about = {
   title: "About me",
   Description:
-  "สวัสดีครับ ผมนายอภิวิชญ์ ปรางโท้ ผมมีความรู้และทักษะในด้านการพัฒนาเว็บไซต์ฝั่ง Front-end ผมสามารถทำงานร่วมกับผู้อื่นได้เป็นอย่างดี ผมมุ่งมั่นที่จะ เรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง พร้อมที่จะทำงานอย่างเต็มที่และนำความรู้ที่ได้มาช่วยเสริมสร้างความสำเร็จของบริษัท",
+  "Hello, I’m Aphiwitch Prangtho, a web developer with project experience and strong teamwork skills. I’m currently studying to become a DevOps Engineer, committed to continuous learning and eager to contribute to the company’s success. :D",
   info:[
     {
       fieldName: "Name",
@@ -61,7 +61,7 @@ const about = {
 const experience ={
   icon: '/assets/assets/resume/badge.svg',
   title: 'My experience',
-  description: "สวัสดีครับ ผมนายอภิวิชญ์ ปรางโท้ ผมมีความรู้และทักษะในด้านการพัฒนาเว็บไซต์ฝั่ง Front-end ผมสามารถทำงานร่วมกับผู้อื่นได้เป็นอย่างดี ผมมุ่งมั่นที่จะ เรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง พร้อมที่จะทำงานอย่างเต็มที่และนำความรู้ที่ได้มาช่วยเสริมสร้างความสำเร็จของบริษัท",
+  description: "Hello, I’m Aphiwitch Prangtho, a web developer with project experience and strong teamwork skills. I’m currently studying to become a DevOps Engineer, committed to continuous learning and eager to contribute to the company’s success. :D",
 
   items: [
     {
@@ -107,7 +107,7 @@ const experience ={
 const education ={
   icon: '/assets/assets/resume/cap.svg',
   title: 'My education',
-  description: "สวัสดีครับ ผมนายอภิวิชญ์ ปรางโท้ ผมมีความรู้และทักษะในด้านการพัฒนาเว็บไซต์ฝั่ง Front-end ผมสามารถทำงานร่วมกับผู้อื่นได้เป็นอย่างดี ผมมุ่งมั่นที่จะ เรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง พร้อมที่จะทำงานอย่างเต็มที่และนำความรู้ที่ได้มาช่วยเสริมสร้างความสำเร็จของบริษัท",
+  description: "Hello, I’m Aphiwitch Prangtho, a web developer with project experience and strong teamwork skills. I’m currently studying to become a DevOps Engineer, committed to continuous learning and eager to contribute to the company’s success. :D",
 
   items: [
     {
@@ -122,7 +122,7 @@ const education ={
 //skills data
 const skills ={
   title: "My skills",
-  description: "สวัสดีครับ ผมนายอภิวิชญ์ ปรางโท้ ผมมีความรู้และทักษะในด้านการพัฒนาเว็บไซต์ฝั่ง Front-end ผมสามารถทำงานร่วมกับผู้อื่นได้เป็นอย่างดี ผมมุ่งมั่นที่จะ เรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง พร้อมที่จะทำงานอย่างเต็มที่และนำความรู้ที่ได้มาช่วยเสริมสร้างความสำเร็จของบริษัท",
+  description: "Hello, I’m Aphiwitch Prangtho, a web developer with project experience and strong teamwork skills. I’m currently studying to become a DevOps Engineer, committed to continuous learning and eager to contribute to the company’s success. :D",
   skillList:[
   {
     icon:<FaDocker />,
@@ -205,7 +205,7 @@ const skills ={
 }
 const certificates ={
   title: "My certificate",
-  description: "สวัสดีครับ ผมนายอภิวิชญ์ ปรางโท้ ผมมีความรู้และทักษะในด้านการพัฒนาเว็บไซต์ฝั่ง Front-end ผมสามารถทำงานร่วมกับผู้อื่นได้เป็นอย่างดี ผมมุ่งมั่นที่จะ เรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง พร้อมที่จะทำงานอย่างเต็มที่และนำความรู้ที่ได้มาช่วยเสริมสร้างความสำเร็จของบริษัท",
+  description: "Hello, I’m Aphiwitch Prangtho, a web developer with project experience and strong teamwork skills. I’m currently studying to become a DevOps Engineer, committed to continuous learning and eager to contribute to the company’s success. :D",
   certificateList:[
   {
     
