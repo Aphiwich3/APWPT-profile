@@ -50,9 +50,9 @@ const Contact = () => {
             <from className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl ">
                 <h3 className="text-4xl text-accent-hover">Aphiwich Prangtho</h3>
                 
-                <p className="text-white/60 " >I am learning web development and am seeking an internship as a Front-end software developer. :D 
+                <p className="text-white/60 " > "Hello, I’m Aphiwitch Prangtho, a web developer with project experience and strong teamwork skills. I’m currently studying to become a DevOps Engineer, committed to continuous learning and eager to contribute to the company’s success." :D 
                 </p>
-                <h3 className="text-white">Internship period : 4 November 2024 to 21 February 2025 </h3>
+            
                 
 
             </from>

@@ -19,11 +19,9 @@ const Photo = () => {
           opacity: 1,
           transition: { delay: 2.4, duration: 0.4, ease: "easeInOut"},
         }}
-        className="w-[358px] h-[270px] xl:w-[290px] xl:h-[495px] 
-        
-      mix-blend-difference absolute ">
+        className="w-[358px] h-[270px] xl:w-[250px] xl:h-[550px] absolute translate-x-[60px] ">
             <Image 
-            src="/assets/Baseba1l.png"
+            src="/assets/aphiwich3.png"
             priority 
             quality={100}
             fill
@@ -39,26 +37,6 @@ const Photo = () => {
         xmlns="http://www.w3.org/2000/svg"
         >
         
-        <motion.circle 
-        cx="253"
-        cy="253"
-        r="250"
-        stroke="#dbaa60"
-        strokeWidth="4"
-        strokeLinecap="roud"
-        strokeLinejoin="round"
-        initial={{strokeDasharray: "24 10 0 0"}}
-        animate={{
-          strokeDasharray: ["15 120 25 25", "16 25 92 72", "4 250 22 22"],
-          rotate: [120 ,360]
-        }}
-        transition={{
-          duration: 20,
-          repeat: Infinity,
-          repeatType: "reverse",
-        }}
-
-        />
         </motion.svg>
     </motion.div>
     

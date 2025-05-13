@@ -6,13 +6,20 @@ import {
    FaCss3,
    FaJs,
    FaReact,
-   FaFigma,
    FaNodeJs,
    FaGithub,
+   FaDocker,
+   FaAws,
+   FaJenkins ,
+   FaGitlab,
+   FaPython ,
+
+
   
    
    } from "react-icons/fa";
-   import { SiPostgresql, SiPostman } from "react-icons/si";
+   import { SiKubernetes } from "react-icons/si";
+   import { SiPostgresql, SiPostman, SiGooglecloud, SiTerraform, SiPrometheus  } from "react-icons/si";
 
   import { SiTailwindcss, SiNextdotjs} from "react-icons/si";
 //about data
@@ -58,6 +65,21 @@ const experience ={
 
   items: [
     {
+      company: "IBM",
+      position:"Introduction to DevOps",
+      duration:"2025",
+    },
+    {
+      company: "DevSecOps Transformation & Technologies",
+      position:"Skooldio(Opsta)",
+      duration:"2025",
+    },
+    {
+      company: "NCSA CTF boot camp 2024",
+      position:"NCSA",
+      duration:"2024",
+    },
+    {
       company: "5th Honorable Mention- Qontinuex",
       position:"PSRU Cyber Hackathon ",
       duration:"2023",
@@ -89,7 +111,7 @@ const education ={
 
   items: [
     {
-      institution: "GPA: 3.90",
+      institution: "GPA: 3.82|Major GPA: 3.93",
       degree:"Bachelor of Science Program Information Technology Major",
       duration:"Pibulsongkram Rajabhat University",
     },
@@ -103,6 +125,38 @@ const skills ={
   description: "สวัสดีครับ ผมนายอภิวิชญ์ ปรางโท้ ผมมีความรู้และทักษะในด้านการพัฒนาเว็บไซต์ฝั่ง Front-end ผมสามารถทำงานร่วมกับผู้อื่นได้เป็นอย่างดี ผมมุ่งมั่นที่จะ เรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง พร้อมที่จะทำงานอย่างเต็มที่และนำความรู้ที่ได้มาช่วยเสริมสร้างความสำเร็จของบริษัท",
   skillList:[
   {
+    icon:<FaDocker />,
+    name: "Docker",
+  },
+  {
+    icon:<SiKubernetes />,
+    name: "Kubernetes",
+  },
+  {
+    icon:<FaAws />,
+    name: "Aws",
+  },
+  {
+    icon:<SiGooglecloud />,
+    name: "Googlecloud",
+  },
+  {
+    icon:<FaJenkins />,
+    name: "Jenkins",
+  },
+  {
+    icon:<FaGitlab />,
+    name: "Gitlab CI",
+  },
+  {
+    icon:<SiTerraform />,
+    name: "Terraform",
+  },
+  {
+    icon:<SiPrometheus />,
+    name: "Prometheus",
+  },
+  {
     icon:<FaHtml5 />,
     name: "html5",
   },
@@ -113,6 +167,10 @@ const skills ={
   {
     icon:<FaJs />,
     name: "javascript",
+  },
+  {
+    icon:<FaPython  />,
+    name: "Python",
   },
   {
     icon:<FaReact />,
@@ -149,6 +207,16 @@ const certificates ={
   title: "My certificate",
   description: "สวัสดีครับ ผมนายอภิวิชญ์ ปรางโท้ ผมมีความรู้และทักษะในด้านการพัฒนาเว็บไซต์ฝั่ง Front-end ผมสามารถทำงานร่วมกับผู้อื่นได้เป็นอย่างดี ผมมุ่งมั่นที่จะ เรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง พร้อมที่จะทำงานอย่างเต็มที่และนำความรู้ที่ได้มาช่วยเสริมสร้างความสำเร็จของบริษัท",
   certificateList:[
+  {
+    
+    image: "/assets/work/CV_DevSecOps Transformation & Technologies.jpg",
+    name: "DevSecOps Transformation & Technologies",
+  },
+  {
+    
+    image: "/assets/work/Data - Driven Decision Making.jpg",
+    name: "Driven Decision Making",
+  },
   {
     
     image: "/assets/work/NCS.jpg",

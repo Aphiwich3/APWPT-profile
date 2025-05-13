@@ -14,12 +14,12 @@ const Home = () => {
         <div className=" flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
 
          <div className="text-center xl:text-left order-2 xl:order-none">
-          <span className="text-xl">Web developer</span>
+          <span className="text-xl">DevOps Engineer</span>
           <h1 className="h1 mb-6">
-            Hell i'm <br /><span className="text-accent-DEFFAULT">Aphiwich Baseball</span>
+            Hell i'm <br /><span className="text-accent-DEFFAULT">Aphiwich Prangtho</span>
           </h1>
           <p className="max-w-[500px] mb-9 text-white/80">
-          I am learning web development and am seeking an internship as a Front-end software developer. :D
+          "Hello, I’m Aphiwitch Prangtho, a web developer with project experience and strong teamwork skills. I’m currently studying to become a DevOps Engineer, committed to continuous learning and eager to contribute to the company’s success." :D
           </p>
           <div className="flex flex-col xl:flex-row items-center gap-8">
             <Button 
@@ -27,8 +27,8 @@ const Home = () => {
             size="lg"
             className="uppercase flex items-center gap-2">
               <a 
-            href="/RESUME APHIWICH (1).pdf" 
-            download="RESUME APHIWICH (1).pdf">
+            href="/RESUME APHIWICH.pdf" 
+            download="RESUME APHIWICH.pdf">
               <span >Download CV</span>
               </a>
               <FiDownload className="text-xl" />
@@ -42,17 +42,12 @@ const Home = () => {
             />
             </div>
           </div>
-
          </div>
-         
          <div className="">
           <Photo />
          </div>
-
        </div>
-
       </div>  
-      <Stats />
     </section>
     );
 };
