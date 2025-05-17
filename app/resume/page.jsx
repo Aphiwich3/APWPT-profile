@@ -209,6 +209,11 @@ const certificates ={
   certificateList:[
   {
     
+    image: "/assets/work/Coursera_devops.jpg",
+    name: "Introduction to DevOps",
+  },
+  {
+    
     image: "/assets/work/CV_DevSecOps Transformation & Technologies.jpg",
     name: "DevSecOps Transformation & Technologies",
   },
